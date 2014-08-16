@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Run="Geex.Run">
+  <Asset Type="Run:IconData[]">
+    <Item>
+      <Rect>0 0 24 24</Rect>
+      <Name>001-Weapon01</Name>
+    </Item>
+    <Item>
+      <Rect>32 0 24 24</Rect>
+      <Name>002-Weapon02</Name>
+    </Item>
+    <Item>
+      <Rect>64 0 24 24</Rect>
+      <Name>003-Weapon03</Name>
+    </Item>
+    <Item>
+      <Rect>96 0 24 24</Rect>
+      <Name>004-Weapon04</Name>
+    </Item>
+    <Item>
+      <Rect>128 0 24 24</Rect>
+      <Name>005-Weapon05</Name>
+    </Item>
+    <Item>
+      <Rect>160 0 24 24</Rect>
+      <Name>006-Weapon06</Name>
+    </Item>
+    <Item>
+      <Rect>192 0 24 24</Rect>
+      <Name>007-Weapon07</Name>
+    </Item>
+    <Item>
+      <Rect>224 0 24 24</Rect>
+      <Name>008-Weapon08</Name>
+    </Item>
+    <Item>
+      <Rect>256 0 24 24</Rect>
+      <Name>009-Shield01</Name>
+    </Item>
+    <Item>
+      <Rect>288 0 24 24</Rect>
+      <Name>010-Head01</Name>
+    </Item>
+    <Item>
+      <Rect>320 0 24 24</Rect>
+      <Name>011-Head02</Name>
+    </Item>
+    <Item>
+      <Rect>352 0 24 24</Rect>
+      <Name>012-Head03</Name>
+    </Item>
+    <Item>
+      <Rect>384 0 24 24</Rect>
+      <Name>013-Body01</Name>
+    </Item>
+    <Item>
+      <Rect>416 0 24 24</Rect>
+      <Name>014-Body02</Name>
+    </Item>
+    <Item>
+      <Rect>448 0 24 24</Rect>
+      <Name>015-Body03</Name>
+    </Item>
+    <Item>
+      <Rect>480 0 24 24</Rect>
+      <Name>016-Accessory01</Name>
+    </Item>
+    <Item>
+      <Rect>512 0 24 24</Rect>
+      <Name>017-Accessory02</Name>
+    </Item>
+    <Item>
+      <Rect>544 0 24 24</Rect>
+      <Name>018-Accessory03</Name>
+    </Item>
+    <Item>
+      <Rect>576 0 24 24</Rect>
+      <Name>019-Accessory04</Name>
+    </Item>
+    <Item>
+      <Rect>608 0 24 24</Rect>
+      <Name>020-Accessory05</Name>
+    </Item>
+    <Item>
+      <Rect>640 0 24 24</Rect>
+      <Name>021-Potion01</Name>
+    </Item>
+    <Item>
+      <Rect>672 0 24 24</Rect>
+      <Name>022-Potion02</Name>
+    </Item>
+    <Item>
+      <Rect>704 0 24 24</Rect>
+      <Name>023-Potion03</Name>
+    </Item>
+    <Item>
+      <Rect>736 0 24 24</Rect>
+      <Name>024-Potion04</Name>
+    </Item>
+    <Item>
+      <Rect>768 0 24 24</Rect>
+      <Name>025-Herb01</Name>
+    </Item>
+    <Item>
+      <Rect>800 0 24 24</Rect>
+      <Name>026-Herb02</Name>
+    </Item>
+    <Item>
+      <Rect>832 0 24 24</Rect>
+      <Name>027-Herb03</Name>
+    </Item>
+    <Item>
+      <Rect>864 0 24 24</Rect>
+      <Name>028-Herb04</Name>
+    </Item>
+    <Item>
+      <Rect>896 0 24 24</Rect>
+      <Name>029-Key01</Name>
+    </Item>
+    <Item>
+      <Rect>928 0 24 24</Rect>
+      <Name>030-Key02</Name>
+    </Item>
+    <Item>
+      <Rect>960 0 24 24</Rect>
+      <Name>031-Key03</Name>
+    </Item>
+    <Item>
+      <Rect>992 0 24 24</Rect>
+      <Name>032-Item01</Name>
+    </Item>
+    <Item>
+      <Rect>1024 0 24 24</Rect>
+      <Name>033-Item02</Name>
+    </Item>
+    <Item>
+      <Rect>1056 0 24 24</Rect>
+      <Name>034-Item03</Name>
+    </Item>
+    <Item>
+      <Rect>1088 0 24 24</Rect>
+      <Name>035-Item04</Name>
+    </Item>
+    <Item>
+      <Rect>1120 0 24 24</Rect>
+      <Name>036-Item05</Name>
+    </Item>
+    <Item>
+      <Rect>1152 0 24 24</Rect>
+      <Name>037-Item06</Name>
+    </Item>
+    <Item>
+      <Rect>1184 0 24 24</Rect>
+      <Name>038-Item07</Name>
+    </Item>
+    <Item>
+      <Rect>1216 0 24 24</Rect>
+      <Name>039-Item08</Name>
+    </Item>
+    <Item>
+      <Rect>1248 0 24 24</Rect>
+      <Name>040-Item09</Name>
+    </Item>
+    <Item>
+      <Rect>1280 0 24 24</Rect>
+      <Name>041-Item10</Name>
+    </Item>
+    <Item>
+      <Rect>1312 0 24 24</Rect>
+      <Name>042-Item11</Name>
+    </Item>
+    <Item>
+      <Rect>1344 0 24 24</Rect>
+      <Name>043-Item12</Name>
+    </Item>
+    <Item>
+      <Rect>1376 0 24 24</Rect>
+      <Name>044-Skill01</Name>
+    </Item>
+    <Item>
+      <Rect>1408 0 24 24</Rect>
+      <Name>045-Skill02</Name>
+    </Item>
+    <Item>
+      <Rect>1440 0 24 24</Rect>
+      <Name>046-Skill03</Name>
+    </Item>
+    <Item>
+      <Rect>1472 0 24 24</Rect>
+      <Name>047-Skill04</Name>
+    </Item>
+    <Item>
+      <Rect>1504 0 24 24</Rect>
+      <Name>048-Skill05</Name>
+    </Item>
+    <Item>
+      <Rect>1536 0 24 24</Rect>
+      <Name>049-Skill06</Name>
+    </Item>
+    <Item>
+      <Rect>1568 0 24 24</Rect>
+      <Name>050-Skill07</Name>
+    </Item>
+  </Asset>
+</XnaContent>

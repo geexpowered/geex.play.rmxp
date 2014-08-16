@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?><XnaContent><Asset Type="Geex.Run.SystemData"><MagicNumber>46350859</MagicNumber>
+<PartyMembers>1 </PartyMembers><Elements><Item></Item><Item>Fire</Item><Item>Ice</Item><Item>Thunder</Item><Item>Water</Item><Item>Earth</Item><Item>Wind</Item><Item>Light</Item><Item>Darkness</Item><Item>vs Undead</Item><Item>vs Snake</Item><Item>vs Aquatic</Item><Item>vs Beast</Item><Item>vs Goblin</Item><Item>vs Bird</Item><Item>vs Devil</Item><Item>vs Angel</Item></Elements><Switches>51</Switches><Variables>51</Variables><WindowskinName>001-Blue01</WindowskinName>
+<TitleName>001-Title01</TitleName>
+<GameoverName>001-Gameover01</GameoverName>
+<BattleTransition>003-Blind03</BattleTransition>
+<TitleMusicLoop><Name>064-Slow07</Name><Volume>100</Volume><Pitch>100</Pitch></TitleMusicLoop>
+<BattleMusicLoop><Name>001-Battle01</Name><Volume>100</Volume><Pitch>100</Pitch></BattleMusicLoop>
+<BattleEndMusicEffect><Name>001-Victory01</Name><Volume>100</Volume><Pitch>100</Pitch></BattleEndMusicEffect>
+<GameoverMusicEffect><Name>005-Defeat01</Name><Volume>100</Volume><Pitch>100</Pitch></GameoverMusicEffect>
+<CursorSoundEffect><Name>001-System01</Name><Volume>80</Volume><Pitch>100</Pitch></CursorSoundEffect>
+<DecisionSoundEffect><Name>002-System02</Name><Volume>80</Volume><Pitch>100</Pitch></DecisionSoundEffect>
+<CancelSoundEffect><Name>003-System03</Name><Volume>80</Volume><Pitch>100</Pitch></CancelSoundEffect>
+<BuzzerSoundEffect><Name>004-System04</Name><Volume>80</Volume><Pitch>100</Pitch></BuzzerSoundEffect>
+<EquipSoundEffect><Name>005-System05</Name><Volume>80</Volume><Pitch>100</Pitch></EquipSoundEffect>
+<ShopSoundEffect><Name>006-System06</Name><Volume>80</Volume><Pitch>100</Pitch></ShopSoundEffect>
+<SaveSoundEffect><Name>007-System07</Name><Volume>80</Volume><Pitch>100</Pitch></SaveSoundEffect>
+<LoadSoundEffect><Name>008-System08</Name><Volume>80</Volume><Pitch>100</Pitch></LoadSoundEffect>
+<BattleStartSoundEffect><Name>009-System09</Name><Volume>80</Volume><Pitch>100</Pitch></BattleStartSoundEffect>
+<EscapeSoundEffect><Name>010-System10</Name><Volume>80</Volume><Pitch>100</Pitch></EscapeSoundEffect>
+<ActorCollapseSoundEffect><Name>011-System11</Name><Volume>80</Volume><Pitch>100</Pitch></ActorCollapseSoundEffect>
+<EnemyCollapseSoundEffect><Name>012-System12</Name><Volume>80</Volume><Pitch>100</Pitch></EnemyCollapseSoundEffect>
+<Wordings><Gold>G</Gold><Hp>HP</Hp><Sp>SP</Sp><Str>STR</Str><Dex>DEX</Dex><Agi>AGI</Agi><Intel>INT</Intel><Atk>ATK</Atk><Pdef>PDEF</Pdef><Mdef>MDEF</Mdef><Weapon>Weapon</Weapon><Armor1>Shield</Armor1><Armor2>Helmet</Armor2><Armor3>Body Armor</Armor3><Armor4>Accessory</Armor4><Attack>Attack</Attack><Skill>Skill</Skill><Guard>Defend</Guard><Item>Item</Item><Equip>Equip</Equip></Wordings>
+<StartMapId>1</StartMapId>
+<StartX>2</StartX>
+<StartY>12</StartY>
+<BattlebackName>003-Forest01</BattlebackName>
+<BattlerName>001-Fighter01</BattlerName>
+<BattlerHue>0</BattlerHue>
+<EditMapId>1</EditMapId>
+</Asset></XnaContent>

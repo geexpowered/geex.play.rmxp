@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{255AFF64-F146-45F7-B3AA-5FE2BD67ED2A}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Geex.Play.RmXp</RootNamespace>
+    <AssemblyName>Geex.Play.RmXp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>3ecd4362-580e-4a92-8006-5eed9ea1bb69</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <PublishUrl>publier\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Geex.Run">
+      <HintPath>..\..\Geex.Run.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Storage, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Arrow\ArrowActor.cs" />
+    <Compile Include="Arrow\ArrowBase.cs" />
+    <Compile Include="Arrow\ArrowNpc.cs" />
+    <Compile Include="Custom\Tags.cs" />
+    <Compile Include="Game\GameActor.cs" />
+    <Compile Include="Game\GameActors.cs" />
+    <Compile Include="Game\GameBattleAction.cs" />
+    <Compile Include="Game\GameBattler.cs" />
+    <Compile Include="Game\GameCharacter.cs" />
+    <Compile Include="Game\GameCommonEvent.cs" />
+    <Compile Include="Game\GameEvent.cs" />
+    <Compile Include="Game\GameFog.cs" />
+    <Compile Include="Game\GameMap.cs" />
+    <Compile Include="Game\GameNpc.cs" />
+    <Compile Include="Game\GameParticle.cs" />
+    <Compile Include="Game\GameParty.cs" />
+    <Compile Include="Game\GamePicture.cs" />
+    <Compile Include="Game\GamePlayer.cs" />
+    <Compile Include="Game\GameScreen.cs" />
+    <Compile Include="Game\GameSelfSwitches.cs" />
+    <Compile Include="Game\GameSwitches.cs" />
+    <Compile Include="Game\GameSystem.cs" />
+    <Compile Include="Game\GameTemp.cs" />
+    <Compile Include="Game\GameTroop.cs" />
+    <Compile Include="Game\GameVariables.cs" />
+    <Compile Include="Main\Data.cs" />
+    <Compile Include="Main\GameOptions.cs" />
+    <Compile Include="Main\InGame.cs" />
+    <Compile Include="Main\Program.cs" />
+    <Compile Include="Make\Commands\command_101.cs" />
+    <Compile Include="Make\Commands\command_102.cs" />
+    <Compile Include="Make\Commands\command_103.cs" />
+    <Compile Include="Make\Commands\command_104.cs" />
+    <Compile Include="Make\Commands\command_105.cs" />
+    <Compile Include="Make\Commands\command_106.cs" />
+    <Compile Include="Make\Commands\command_111.cs" />
+    <Compile Include="Make\Commands\command_112.cs" />
+    <Compile Include="Make\Commands\command_113.cs" />
+    <Compile Include="Make\Commands\command_115.cs" />
+    <Compile Include="Make\Commands\command_116.cs" />
+    <Compile Include="Make\Commands\command_117.cs" />
+    <Compile Include="Make\Commands\command_118.cs" />
+    <Compile Include="Make\Commands\command_119.cs" />
+    <Compile Include="Make\Commands\command_121.cs" />
+    <Compile Include="Make\Commands\command_122.cs" />
+    <Compile Include="Make\Commands\command_123.cs" />
+    <Compile Include="Make\Commands\command_124.cs" />
+    <Compile Include="Make\Commands\command_125.cs" />
+    <Compile Include="Make\Commands\command_126.cs" />
+    <Compile Include="Make\Commands\command_127.cs" />
+    <Compile Include="Make\Commands\command_128.cs" />
+    <Compile Include="Make\Commands\command_129.cs" />
+    <Compile Include="Make\Commands\command_131.cs" />
+    <Compile Include="Make\Commands\command_132.cs" />
+    <Compile Include="Make\Commands\command_133.cs" />
+    <Compile Include="Make\Commands\command_134.cs" />
+    <Compile Include="Make\Commands\command_135.cs" />
+    <Compile Include="Make\Commands\command_136.cs" />
+    <Compile Include="Make\Commands\command_201.cs" />
+    <Compile Include="Make\Commands\command_202.cs" />
+    <Compile Include="Make\Commands\command_203.cs" />
+    <Compile Include="Make\Commands\command_204.cs" />
+    <Compile Include="Make\Commands\command_205.cs" />
+    <Compile Include="Make\Commands\command_206.cs" />
+    <Compile Include="Make\Commands\command_207.cs" />
+    <Compile Include="Make\Commands\command_208.cs" />
+    <Compile Include="Make\Commands\command_209.cs" />
+    <Compile Include="Make\Commands\command_210.cs" />
+    <Compile Include="Make\Commands\command_221.cs" />
+    <Compile Include="Make\Commands\command_222.cs" />
+    <Compile Include="Make\Commands\command_223-225.cs" />
+    <Compile Include="Make\Commands\command_231-235.cs" />
+    <Compile Include="Make\Commands\command_236.cs" />
+    <Compile Include="Make\Commands\command_241-251.cs" />
+    <Compile Include="Make\Commands\command_301.cs" />
+    <Compile Include="Make\Commands\command_302.cs" />
+    <Compile Include="Make\Commands\command_303.cs" />
+    <Compile Include="Make\Commands\command_311.cs" />
+    <Compile Include="Make\Commands\command_312.cs" />
+    <Compile Include="Make\Commands\command_313.cs" />
+    <Compile Include="Make\Commands\command_314.cs" />
+    <Compile Include="Make\Commands\command_315.cs" />
+    <Compile Include="Make\Commands\command_316.cs" />
+    <Compile Include="Make\Commands\command_317.cs" />
+    <Compile Include="Make\Commands\command_318.cs" />
+    <Compile Include="Make\Commands\command_319.cs" />
+    <Compile Include="Make\Commands\command_320-322.cs" />
+    <Compile Include="Make\Commands\command_331-336.cs" />
+    <Compile Include="Make\Commands\command_337.cs" />
+    <Compile Include="Make\Commands\command_338.cs" />
+    <Compile Include="Make\Commands\command_339.cs" />
+    <Compile Include="Make\Commands\command_340.cs" />
+    <Compile Include="Make\Commands\command_351-354.cs" />
+    <Compile Include="Make\Commands\command_402.cs" />
+    <Compile Include="Make\Commands\command_403.cs" />
+    <Compile Include="Make\Commands\command_411.cs" />
+    <Compile Include="Make\Commands\command_413.cs" />
+    <Compile Include="Make\Commands\command_601-603.cs" />
+    <Compile Include="Make\Geex Make.cs" />
+    <Compile Include="Make\Interpreter.cs" />
+    <Compile Include="Make\MakeCommand.cs" />
+    <Compile Include="Make\MakeObject.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scene\SceneBattle.cs" />
+    <Compile Include="Scene\SceneDebug.cs" />
+    <Compile Include="Scene\SceneEnd.cs" />
+    <Compile Include="Scene\SceneEquip.cs" />
+    <Compile Include="Scene\SceneFile.cs" />
+    <Compile Include="Scene\SceneGameover.cs" />
+    <Compile Include="Scene\SceneItem.cs" />
+    <Compile Include="Scene\SceneLoad.cs" />
+    <Compile Include="Scene\SceneMap.cs" />
+    <Compile Include="Scene\SceneMenu.cs" />
+    <Compile Include="Scene\SceneName.cs" />
+    <Compile Include="Scene\SceneSave.cs" />
+    <Compile Include="Scene\SceneShop.cs" />
+    <Compile Include="Scene\SceneSkill.cs" />
+    <Compile Include="Scene\SceneStatus.cs" />
+    <Compile Include="Scene\SceneTitle.cs" />
+    <Compile Include="Sprite\SpriteBattler.cs" />
+    <Compile Include="Sprite\SpriteCharacter.cs" />
+    <Compile Include="Sprite\SpriteParticle.cs" />
+    <Compile Include="Sprite\SpritePicture.cs" />
+    <Compile Include="Sprite\SpriteRpg.cs" />
+    <Compile Include="Sprite\SpritesetBattle.cs" />
+    <Compile Include="Sprite\SpritesetMap.cs" />
+    <Compile Include="Sprite\SpriteTag.cs" />
+    <Compile Include="Sprite\SpriteTimer.cs" />
+    <Compile Include="Sprite\Weather.cs" />
+    <Compile Include="Utils\BattlerSpeedComparer.cs" />
+    <Compile Include="Utils\BattlerStateComparer.cs" />
+    <Compile Include="Utils\Enum.cs" />
+    <Compile Include="Utils\SavedGame.cs" />
+    <Compile Include="Window\WindowBase.cs" />
+    <Compile Include="Window\WindowBattleResult.cs" />
+    <Compile Include="Window\WindowBattleStatus.cs" />
+    <Compile Include="Window\WindowCommand.cs" />
+    <Compile Include="Window\WindowDebugLeft.cs" />
+    <Compile Include="Window\WindowDebugRight.cs" />
+    <Compile Include="Window\WindowEquipItem.cs" />
+    <Compile Include="Window\WindowEquipLeft.cs" />
+    <Compile Include="Window\WindowEquipRight.cs" />
+    <Compile Include="Window\WindowGold.cs" />
+    <Compile Include="Window\WindowHelp.cs" />
+    <Compile Include="Window\WindowHorizCommand.cs" />
+    <Compile Include="Window\WindowInputNumber.cs" />
+    <Compile Include="Window\WindowItem.cs" />
+    <Compile Include="Window\WindowMenuStatus.cs" />
+    <Compile Include="Window\WindowMessage.cs" />
+    <Compile Include="Window\WindowNameEdit.cs" />
+    <Compile Include="Window\WindowNameInput.cs" />
+    <Compile Include="Window\WindowPartyCommand.cs" />
+    <Compile Include="Window\WindowPlayTime.cs" />
+    <Compile Include="Window\WindowSaveFile.cs" />
+    <Compile Include="Window\WindowSelectable.cs" />
+    <Compile Include="Window\WindowShopBuy.cs" />
+    <Compile Include="Window\WindowShopCommand.cs" />
+    <Compile Include="Window\WindowShopNumber.cs" />
+    <Compile Include="Window\WindowShopSell.cs" />
+    <Compile Include="Window\WindowShopStatus.cs" />
+    <Compile Include="Window\WindowSkill.cs" />
+    <Compile Include="Window\WindowSkillStatus.cs" />
+    <Compile Include="Window\WindowStatus.cs" />
+    <Compile Include="Window\WindowSteps.cs" />
+    <Compile Include="Window\WindowTarget.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Geex.Play.Data\Geex.Play.Data.csproj">
+      <Project>{3fce2752-20f8-46a3-9338-dd8dbdb29f60}</Project>
+      <Name>Geex.Play.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Geex.Play.RmXpContent\Geex.Play.RmXpContent.contentproj">
+      <Name>Geex.Play.RmXpContent</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>cd C:\path-to-solution\geex.play.rmxp\Rm
+call "Geex.Transpose.exe"</PreBuildEvent>
+  </PropertyGroup>
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

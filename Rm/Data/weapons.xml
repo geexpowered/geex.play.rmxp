@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?><XnaContent><Asset Type="Geex.Run.Weapon[]"><Item></Item>
+<Item>
+<Id>1</Id><Name>Bronze Sword</Name><IconName>001-Weapon01</IconName><Description>Fighter's Weapon.</Description><Price>500</Price><Animation1Id>0</Animation1Id><Animation2Id>7</Animation2Id><Atk>112</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>2</Id><Name>Iron Sword</Name><IconName>001-Weapon01</IconName><Description>Fighter's Weapon.</Description><Price>1200</Price><Animation1Id>0</Animation1Id><Animation2Id>7</Animation2Id><Atk>140</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>3</Id><Name>Steel Sword</Name><IconName>001-Weapon01</IconName><Description>Fighter's Weapon.</Description><Price>3200</Price><Animation1Id>0</Animation1Id><Animation2Id>7</Animation2Id><Atk>175</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>4</Id><Name>Mythril Sword</Name><IconName>001-Weapon01</IconName><Description>Fighter's Weapon.</Description><Price>7800</Price><Animation1Id>0</Animation1Id><Animation2Id>7</Animation2Id><Atk>218</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>5</Id><Name>Bronze Spear</Name><IconName>002-Weapon02</IconName><Description>Lancer's Weapon.</Description><Price>490</Price><Animation1Id>0</Animation1Id><Animation2Id>8</Animation2Id><Atk>110</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>6</Id><Name>Iron Spear</Name><IconName>002-Weapon02</IconName><Description>Lancer's Weapon.</Description><Price>1200</Price><Animation1Id>0</Animation1Id><Animation2Id>8</Animation2Id><Atk>137</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>7</Id><Name>Steel Spear</Name><IconName>002-Weapon02</IconName><Description>Lancer's Weapon.</Description><Price>3000</Price><Animation1Id>0</Animation1Id><Animation2Id>8</Animation2Id><Atk>171</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>8</Id><Name>Mythril Spear</Name><IconName>002-Weapon02</IconName><Description>Lancer's Weapon.</Description><Price>7600</Price><Animation1Id>0</Animation1Id><Animation2Id>8</Animation2Id><Atk>214</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>9</Id><Name>Bronze Axe</Name><IconName>003-Weapon03</IconName><Description>Warrior's Weapon.</Description><Price>520</Price><Animation1Id>0</Animation1Id><Animation2Id>9</Animation2Id><Atk>114</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>10</Id><Name>Iron Axe</Name><IconName>003-Weapon03</IconName><Description>Warrior's Weapon.</Description><Price>1300</Price><Animation1Id>0</Animation1Id><Animation2Id>9</Animation2Id><Atk>142</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>11</Id><Name>Steel Axe</Name><IconName>003-Weapon03</IconName><Description>Warrior's Weapon.</Description><Price>3200</Price><Animation1Id>0</Animation1Id><Animation2Id>9</Animation2Id><Atk>178</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>12</Id><Name>Mythril Axe</Name><IconName>003-Weapon03</IconName><Description>Warrior's Weapon.</Description><Price>8000</Price><Animation1Id>0</Animation1Id><Animation2Id>9</Animation2Id><Atk>222</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>13</Id><Name>Bronze Knife</Name><IconName>004-Weapon04</IconName><Description>Thief's Weapon.</Description><Price>400</Price><Animation1Id>0</Animation1Id><Animation2Id>10</Animation2Id><Atk>108</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>14</Id><Name>Iron Knife</Name><IconName>004-Weapon04</IconName><Description>Thief's Weapon.</Description><Price>1000</Price><Animation1Id>0</Animation1Id><Animation2Id>10</Animation2Id><Atk>135</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>15</Id><Name>Steel Knife</Name><IconName>004-Weapon04</IconName><Description>Thief's Weapon.</Description><Price>4500</Price><Animation1Id>0</Animation1Id><Animation2Id>10</Animation2Id><Atk>168</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>16</Id><Name>Mythril Knife</Name><IconName>004-Weapon04</IconName><Description>Thief's Weapon.</Description><Price>6200</Price><Animation1Id>0</Animation1Id><Animation2Id>10</Animation2Id><Atk>210</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>17</Id><Name>Bronze Bow</Name><IconName>005-Weapon05</IconName><Description>Hunter's Weapon.</Description><Price>470</Price><Animation1Id>0</Animation1Id><Animation2Id>11</Animation2Id><Atk>111</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>18</Id><Name>Iron Bow</Name><IconName>005-Weapon05</IconName><Description>Hunter's Weapon.</Description><Price>1200</Price><Animation1Id>0</Animation1Id><Animation2Id>11</Animation2Id><Atk>138</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>19</Id><Name>Steel Bow</Name><IconName>005-Weapon05</IconName><Description>Hunter's Weapon.</Description><Price>2900</Price><Animation1Id>0</Animation1Id><Animation2Id>11</Animation2Id><Atk>173</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>20</Id><Name>Mythril Bow</Name><IconName>005-Weapon05</IconName><Description>Hunter's Weapon.</Description><Price>7300</Price><Animation1Id>0</Animation1Id><Animation2Id>11</Animation2Id><Atk>216</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>21</Id><Name>Bronze Gun</Name><IconName>006-Weapon06</IconName><Description>Gunner's Weapon.</Description><Price>550</Price><Animation1Id>0</Animation1Id><Animation2Id>12</Animation2Id><Atk>115</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>22</Id><Name>Iron Gun</Name><IconName>006-Weapon06</IconName><Description>Gunner's Weapon.</Description><Price>1300</Price><Animation1Id>0</Animation1Id><Animation2Id>12</Animation2Id><Atk>143</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>23</Id><Name>Steel Gun</Name><IconName>006-Weapon06</IconName><Description>Gunner's Weapon.</Description><Price>3400</Price><Animation1Id>0</Animation1Id><Animation2Id>12</Animation2Id><Atk>179</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>24</Id><Name>Mythril Gun</Name><IconName>006-Weapon06</IconName><Description>Gunner's Weapon.</Description><Price>8500</Price><Animation1Id>0</Animation1Id><Animation2Id>12</Animation2Id><Atk>224</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>25</Id><Name>Bronze Mace</Name><IconName>007-Weapon07</IconName><Description>Cleric's Weapon.</Description><Price>440</Price><Animation1Id>0</Animation1Id><Animation2Id>13</Animation2Id><Atk>109</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>26</Id><Name>Iron Mace</Name><IconName>007-Weapon07</IconName><Description>Cleric's Weapon.</Description><Price>1100</Price><Animation1Id>0</Animation1Id><Animation2Id>13</Animation2Id><Atk>136</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>27</Id><Name>Steel Mace</Name><IconName>007-Weapon07</IconName><Description>Cleric's Weapon.</Description><Price>2700</Price><Animation1Id>0</Animation1Id><Animation2Id>13</Animation2Id><Atk>170</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>28</Id><Name>Mythril Mace</Name><IconName>007-Weapon07</IconName><Description>Cleric's Weapon.</Description><Price>6800</Price><Animation1Id>0</Animation1Id><Animation2Id>13</Animation2Id><Atk>212</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>29</Id><Name>Bronze Rod</Name><IconName>008-Weapon08</IconName><Description>Mage's Weapon.</Description><Price>420</Price><Animation1Id>0</Animation1Id><Animation2Id>14</Animation2Id><Atk>107</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>30</Id><Name>Iron Rod</Name><IconName>008-Weapon08</IconName><Description>Mage's Weapon.</Description><Price>1000</Price><Animation1Id>0</Animation1Id><Animation2Id>14</Animation2Id><Atk>133</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>31</Id><Name>Steel Rod</Name><IconName>008-Weapon08</IconName><Description>Mage's Weapon.</Description><Price>2600</Price><Animation1Id>0</Animation1Id><Animation2Id>14</Animation2Id><Atk>167</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+<Item>
+<Id>32</Id><Name>Mythril Rod</Name><IconName>008-Weapon08</IconName><Description>Mage's Weapon.</Description><Price>6500</Price><Animation1Id>0</Animation1Id><Animation2Id>14</Animation2Id><Atk>208</Atk><Pdef>0</Pdef><Mdef>0</Mdef><StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><ElementSet></ElementSet><PlusStateSet></PlusStateSet><MinusStateSet></MinusStateSet></Item>
+</Asset></XnaContent>

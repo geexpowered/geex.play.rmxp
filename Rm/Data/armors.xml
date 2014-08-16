@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?><XnaContent><Asset Type="Geex.Run.Armor[]"><Item></Item>
+<Item>
+<Id>1</Id><Name>Bronze Shield</Name><IconName>009-Shield01</IconName><Description>Shield for front position classes.</Description><Price>390</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>0</Kind><AutoStateId>0</AutoStateId><Pdef>22</Pdef><Mdef>20</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>2</Id><Name>Iron Shield</Name><IconName>009-Shield01</IconName><Description>Shield for front position classes.</Description><Price>970</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>0</Kind><AutoStateId>0</AutoStateId><Pdef>27</Pdef><Mdef>25</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>3</Id><Name>Steel Shield</Name><IconName>009-Shield01</IconName><Description>Shield for front position classes.</Description><Price>2400</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>0</Kind><AutoStateId>0</AutoStateId><Pdef>34</Pdef><Mdef>31</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>4</Id><Name>Mythirl Shield</Name><IconName>009-Shield01</IconName><Description>Shield for front position classes.</Description><Price>6000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>0</Kind><AutoStateId>0</AutoStateId><Pdef>42</Pdef><Mdef>39</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>5</Id><Name>Bronze Helm</Name><IconName>010-Head01</IconName><Description><![CDATA[Helmet for front & middle position classes.]]></Description><Price>320</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>1</Kind><AutoStateId>0</AutoStateId><Pdef>53</Pdef><Mdef>47</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>6</Id><Name>Iron Helm</Name><IconName>010-Head01</IconName><Description><![CDATA[Helmet for front & middle position classes.]]></Description><Price>800</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>1</Kind><AutoStateId>0</AutoStateId><Pdef>66</Pdef><Mdef>58</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>7</Id><Name>Steel Helm</Name><IconName>010-Head01</IconName><Description><![CDATA[Helmet for front & middle position classes.]]></Description><Price>2000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>1</Kind><AutoStateId>0</AutoStateId><Pdef>82</Pdef><Mdef>73</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>8</Id><Name>Mythril Helm</Name><IconName>010-Head01</IconName><Description><![CDATA[Helmet for front & middle position classes.]]></Description><Price>5000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>1</Kind><AutoStateId>0</AutoStateId><Pdef>103</Pdef><Mdef>91</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>9</Id><Name>Cotton hat</Name><IconName>011-Head02</IconName><Description>Hat for rear position classes.</Description><Price>250</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>1</Kind><AutoStateId>0</AutoStateId><Pdef>46</Pdef><Mdef>50</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>10</Id><Name>Felt Hat</Name><IconName>011-Head02</IconName><Description>Hat for rear position classes.</Description><Price>620</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>1</Kind><AutoStateId>0</AutoStateId><Pdef>57</Pdef><Mdef>62</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>11</Id><Name>Magic Hat</Name><IconName>011-Head02</IconName><Description>Hat for rear position classes.</Description><Price>1500</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>1</Kind><AutoStateId>0</AutoStateId><Pdef>71</Pdef><Mdef>78</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>12</Id><Name>Saint Hat</Name><IconName>011-Head02</IconName><Description>Hat for rear position classes.</Description><Price>3900</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>1</Kind><AutoStateId>0</AutoStateId><Pdef>89</Pdef><Mdef>97</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>13</Id><Name>Bronze Armor</Name><IconName>013-Body01</IconName><Description>Body armor for front position classes.</Description><Price>550</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>78</Pdef><Mdef>71</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>14</Id><Name>Iron Armor</Name><IconName>013-Body01</IconName><Description>Body armor for front position classes.</Description><Price>1300</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>97</Pdef><Mdef>88</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>15</Id><Name>Steel Armor</Name><IconName>013-Body01</IconName><Description>Body armor for front position classes.</Description><Price>3400</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>121</Pdef><Mdef>110</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>16</Id><Name>Mythril Armor</Name><IconName>013-Body01</IconName><Description>Body armor for front position classes.</Description><Price>8500</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>152</Pdef><Mdef>138</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>17</Id><Name>Bronze Plate</Name><IconName>014-Body02</IconName><Description><![CDATA[Body armor for front & middle position classes.]]></Description><Price>470</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>74</Pdef><Mdef>69</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>18</Id><Name>Iron Plate</Name><IconName>014-Body02</IconName><Description><![CDATA[Body armor for front & middle position classes.]]></Description><Price>1100</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>92</Pdef><Mdef>86</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>19</Id><Name>Steel Plate</Name><IconName>014-Body02</IconName><Description><![CDATA[Body armor for front & middle position classes.]]></Description><Price>2900</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>115</Pdef><Mdef>107</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>20</Id><Name>Mythril Plate</Name><IconName>014-Body02</IconName><Description><![CDATA[Body armor for front & middle position classes.]]></Description><Price>7300</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>144</Pdef><Mdef>134</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>21</Id><Name>Cotton Robe</Name><IconName>015-Body03</IconName><Description>Robe for rear position classes.</Description><Price>440</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>70</Pdef><Mdef>74</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>22</Id><Name>Felt Robe</Name><IconName>015-Body03</IconName><Description>Robe for rear position classes.</Description><Price>1100</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>87</Pdef><Mdef>92</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>23</Id><Name>Magic Robe</Name><IconName>015-Body03</IconName><Description>Robe for rear position classes.</Description><Price>2700</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>109</Pdef><Mdef>115</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>24</Id><Name>Saint Robe</Name><IconName>015-Body03</IconName><Description>Robe for rear position classes.</Description><Price>6800</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>2</Kind><AutoStateId>0</AutoStateId><Pdef>136</Pdef><Mdef>144</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>25</Id><Name>Ring of Strength</Name><IconName>016-Accessory01</IconName><Description>Ring that raises STR.</Description><Price>2000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>3</Kind><AutoStateId>0</AutoStateId><Pdef>0</Pdef><Mdef>0</Mdef><Eva>0</Eva>
+<StrPlus>15</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>26</Id><Name>Ring of Dextality</Name><IconName>016-Accessory01</IconName><Description>Ring that raises DEX.</Description><Price>2000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>3</Kind><AutoStateId>0</AutoStateId><Pdef>0</Pdef><Mdef>0</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>15</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>27</Id><Name>Ring of Agility</Name><IconName>016-Accessory01</IconName><Description>Ring that raises AGI.</Description><Price>2000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>3</Kind><AutoStateId>0</AutoStateId><Pdef>0</Pdef><Mdef>0</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>15</AgiPlus><IntPlus>0</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>28</Id><Name>Ring of Intelligence</Name><IconName>016-Accessory01</IconName><Description>Ring that raises INT.</Description><Price>2000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>3</Kind><AutoStateId>0</AutoStateId><Pdef>0</Pdef><Mdef>0</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>15</IntPlus><GuardElementSet></GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>29</Id><Name>Ring of Fire</Name><IconName>016-Accessory01</IconName><Description>Ring of the resistance to fire damage.</Description><Price>3000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>3</Kind><AutoStateId>0</AutoStateId><Pdef>0</Pdef><Mdef>0</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet>1 </GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>30</Id><Name>Ring of Ice</Name><IconName>016-Accessory01</IconName><Description>Ring of the resistance to ice damage.</Description><Price>3000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>3</Kind><AutoStateId>0</AutoStateId><Pdef>0</Pdef><Mdef>0</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet>2 </GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>31</Id><Name>Ring of Thunder</Name><IconName>016-Accessory01</IconName><Description>Ring of the resistance to thunder damage.</Description><Price>3000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>3</Kind><AutoStateId>0</AutoStateId><Pdef>0</Pdef><Mdef>0</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet>3 </GuardElementSet><GuardStateSet></GuardStateSet></Item>
+<Item>
+<Id>32</Id><Name>Ring of Water</Name><IconName>016-Accessory01</IconName><Description>Ring of the resistance to water damage.</Description><Price>3000</Price><Animation1Id>0</Animation1Id><Animation2Id>0</Animation2Id><Kind>3</Kind><AutoStateId>0</AutoStateId><Pdef>0</Pdef><Mdef>0</Mdef><Eva>0</Eva>
+<StrPlus>0</StrPlus><DexPlus>0</DexPlus><AgiPlus>0</AgiPlus><IntPlus>0</IntPlus><GuardElementSet>4 </GuardElementSet><GuardStateSet></GuardStateSet></Item>
+</Asset></XnaContent>

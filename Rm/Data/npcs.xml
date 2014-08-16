@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" ?><XnaContent><Asset Type="Geex.Run.Npc[]"><Item></Item>
+<Item>
+<Id>1</Id><Name>Ghost</Name><BattlerName>051-Undead01</BattlerName><BattlerHue>0</BattlerHue><MaxHp>540</MaxHp><MaxSp>419</MaxSp><Str>41</Str><Dex>39</Dex><Agi>41</Agi><Intel>41</Intel><Atk>100</Atk><Pdef>95</Pdef><Mdef>95</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 2 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>7</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>0</Kind><Basic>3</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>2</Exp><Gold>16</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>2</Id><Name>Basilisk</Name><BattlerName>055-Snake01</BattlerName><BattlerHue>0</BattlerHue><MaxHp>628</MaxHp><MaxSp>450</MaxSp><Str>43</Str><Dex>45</Dex><Agi>46</Agi><Intel>43</Intel><Atk>97</Atk><Pdef>98</Pdef><Mdef>103</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>5</Animation2Id><ElementRanks>0 3 2 3 3 3 3 3 3 3 1 3 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>0</Kind><Basic>3</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>3</Exp><Gold>23</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>3</Id><Name>Sahagin</Name><BattlerName>059-Aquatic01</BattlerName><BattlerHue>0</BattlerHue><MaxHp>681</MaxHp><MaxSp>519</MaxSp><Str>49</Str><Dex>50</Dex><Agi>52</Agi><Intel>52</Intel><Atk>105</Atk><Pdef>101</Pdef><Mdef>104</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>5</Animation2Id><ElementRanks>0 3 3 2 3 3 3 3 3 3 3 1 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>16</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>4</Exp><Gold>31</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>4</Id><Name>Hellhound</Name><BattlerName>063-Beast01</BattlerName><BattlerHue>0</BattlerHue><MaxHp>724</MaxHp><MaxSp>551</MaxSp><Str>55</Str><Dex>55</Dex><Agi>53</Agi><Intel>56</Intel><Atk>102</Atk><Pdef>103</Pdef><Mdef>102</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>6</Animation2Id><ElementRanks>0 3 3 3 2 3 3 3 3 3 3 3 1 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>33</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>5</Exp><Gold>39</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>5</Id><Name>Cobold</Name><BattlerName>067-Goblin01</BattlerName><BattlerHue>0</BattlerHue><MaxHp>827</MaxHp><MaxSp>598</MaxSp><Str>62</Str><Dex>59</Dex><Agi>61</Agi><Intel>58</Intel><Atk>103</Atk><Pdef>108</Pdef><Mdef>104</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>7</Animation2Id><ElementRanks>0 3 3 3 3 2 3 3 3 3 3 3 3 1 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>0</Kind><Basic>1</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>7</Exp><Gold>51</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>6</Id><Name>Cockatrice</Name><BattlerName>071-Bird01</BattlerName><BattlerHue>0</BattlerHue><MaxHp>863</MaxHp><MaxSp>649</MaxSp><Str>67</Str><Dex>63</Dex><Agi>64</Agi><Intel>63</Intel><Atk>106</Atk><Pdef>111</Pdef><Mdef>111</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 3 3 3 3 2 3 3 3 3 3 3 3 1 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>43</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>9</Exp><Gold>57</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>7</Id><Name>Imp</Name><BattlerName>075-Devil01</BattlerName><BattlerHue>0</BattlerHue><MaxHp>1019</MaxHp><MaxSp>707</MaxSp><Str>69</Str><Dex>72</Dex><Agi>69</Agi><Intel>68</Intel><Atk>114</Atk><Pdef>108</Pdef><Mdef>115</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 3 3 3 3 3 2 4 3 3 3 3 3 3 1 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>10</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>12</Exp><Gold>68</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>8</Id><Name>Angel</Name><BattlerName>079-Angel01</BattlerName><BattlerHue>0</BattlerHue><MaxHp>1023</MaxHp><MaxSp>785</MaxSp><Str>78</Str><Dex>74</Dex><Agi>76</Agi><Intel>72</Intel><Atk>117</Atk><Pdef>109</Pdef><Mdef>109</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 3 3 3 3 3 4 2 3 3 3 3 3 3 3 1 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>15</Exp><Gold>75</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>9</Id><Name>Zombie</Name><BattlerName>052-Undead02</BattlerName><BattlerHue>0</BattlerHue><MaxHp>1177</MaxHp><MaxSp>823</MaxSp><Str>77</Str><Dex>82</Dex><Agi>83</Agi><Intel>83</Intel><Atk>119</Atk><Pdef>113</Pdef><Mdef>116</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 2 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>50</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>19</Exp><Gold>81</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>10</Id><Name>Lamia</Name><BattlerName>056-Snake02</BattlerName><BattlerHue>0</BattlerHue><MaxHp>1331</MaxHp><MaxSp>830</MaxSp><Str>86</Str><Dex>87</Dex><Agi>88</Agi><Intel>81</Intel><Atk>113</Atk><Pdef>117</Pdef><Mdef>122</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>5</Animation2Id><ElementRanks>0 3 2 3 3 3 3 3 3 3 1 3 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>39</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>24</Exp><Gold>94</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>11</Id><Name>Lizardman</Name><BattlerName>060-Aquatic02</BattlerName><BattlerHue>0</BattlerHue><MaxHp>1366</MaxHp><MaxSp>923</MaxSp><Str>87</Str><Dex>89</Dex><Agi>90</Agi><Intel>89</Intel><Atk>120</Atk><Pdef>121</Pdef><Mdef>117</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>9</Animation2Id><ElementRanks>0 3 3 2 3 3 3 3 3 3 3 1 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>0</Kind><Basic>1</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>29</Exp><Gold>100</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>12</Id><Name>Kerberos</Name><BattlerName>064-Beast02</BattlerName><BattlerHue>0</BattlerHue><MaxHp>1559</MaxHp><MaxSp>972</MaxSp><Str>92</Str><Dex>92</Dex><Agi>97</Agi><Intel>98</Intel><Atk>123</Atk><Pdef>122</Pdef><Mdef>125</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>6</Animation2Id><ElementRanks>0 3 3 3 2 3 3 3 3 3 3 3 1 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>13</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+</Actions><Exp>34</Exp><Gold>117</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>13</Id><Name>Goblin</Name><BattlerName>068-Goblin02</BattlerName><BattlerHue>0</BattlerHue><MaxHp>1652</MaxHp><MaxSp>1008</MaxSp><Str>100</Str><Dex>103</Dex><Agi>102</Agi><Intel>95</Intel><Atk>118</Atk><Pdef>126</Pdef><Mdef>124</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>10</Animation2Id><ElementRanks>0 3 3 3 3 2 3 3 3 3 3 3 3 1 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>7</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>40</Exp><Gold>123</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>14</Id><Name>Harpy</Name><BattlerName>072-Bird02</BattlerName><BattlerHue>0</BattlerHue><MaxHp>1977</MaxHp><MaxSp>1071</MaxSp><Str>102</Str><Dex>102</Dex><Agi>101</Agi><Intel>106</Intel><Atk>125</Atk><Pdef>130</Pdef><Mdef>123</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>5</Animation2Id><ElementRanks>0 3 3 3 3 3 2 3 3 3 3 3 3 3 1 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>0</Basic><SkillId>56</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>47</Exp><Gold>129</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>15</Id><Name>Gargoyle</Name><BattlerName>076-Devil02</BattlerName><BattlerHue>0</BattlerHue><MaxHp>2112</MaxHp><MaxSp>1110</MaxSp><Str>111</Str><Dex>112</Dex><Agi>113</Agi><Intel>115</Intel><Atk>129</Atk><Pdef>132</Pdef><Mdef>127</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>5</Animation2Id><ElementRanks>0 3 3 3 3 3 3 2 4 3 3 3 3 3 3 1 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>22</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>55</Exp><Gold>150</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>16</Id><Name>Archangel</Name><BattlerName>080-Angel02</BattlerName><BattlerHue>0</BattlerHue><MaxHp>2265</MaxHp><MaxSp>1171</MaxSp><Str>113</Str><Dex>117</Dex><Agi>112</Agi><Intel>114</Intel><Atk>135</Atk><Pdef>133</Pdef><Mdef>135</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>13</Animation2Id><ElementRanks>0 3 3 3 3 3 3 4 2 3 3 3 3 3 3 3 1 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>2</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>63</Exp><Gold>158</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>17</Id><Name>Skeleton</Name><BattlerName>053-Undead03</BattlerName><BattlerHue>0</BattlerHue><MaxHp>2631</MaxHp><MaxSp>1199</MaxSp><Str>121</Str><Dex>120</Dex><Agi>124</Agi><Intel>120</Intel><Atk>135</Atk><Pdef>129</Pdef><Mdef>128</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>7</Animation2Id><ElementRanks>0 2 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>41</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>72</Exp><Gold>165</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>18</Id><Name>Hydra</Name><BattlerName>057-Snake03</BattlerName><BattlerHue>0</BattlerHue><MaxHp>2846</MaxHp><MaxSp>1219</MaxSp><Str>125</Str><Dex>119</Dex><Agi>124</Agi><Intel>123</Intel><Atk>139</Atk><Pdef>136</Pdef><Mdef>136</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 2 3 3 3 3 3 3 3 1 3 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>33</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>81</Exp><Gold>174</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>19</Id><Name>Kraken</Name><BattlerName>061-Aquatic03</BattlerName><BattlerHue>0</BattlerHue><MaxHp>3053</MaxHp><MaxSp>1295</MaxSp><Str>134</Str><Dex>127</Dex><Agi>132</Agi><Intel>134</Intel><Atk>133</Atk><Pdef>135</Pdef><Mdef>139</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 3 2 3 3 3 3 3 3 3 1 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>17</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>92</Exp><Gold>181</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>20</Id><Name>Griffin</Name><BattlerName>065-Beast03</BattlerName><BattlerHue>0</BattlerHue><MaxHp>3348</MaxHp><MaxSp>1370</MaxSp><Str>135</Str><Dex>132</Dex><Agi>131</Agi><Intel>133</Intel><Atk>132</Atk><Pdef>143</Pdef><Mdef>144</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 3 3 2 3 3 3 3 3 3 3 1 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>20</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>103</Exp><Gold>198</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>21</Id><Name>Ogre</Name><BattlerName>069-Goblin03</BattlerName><BattlerHue>0</BattlerHue><MaxHp>3550</MaxHp><MaxSp>1450</MaxSp><Str>134</Str><Dex>136</Dex><Agi>138</Agi><Intel>139</Intel><Atk>133</Atk><Pdef>146</Pdef><Mdef>146</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>9</Animation2Id><ElementRanks>0 3 3 3 3 2 3 3 3 3 3 3 3 1 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>53</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>115</Exp><Gold>219</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>22</Id><Name>Wyvern</Name><BattlerName>073-Bird03</BattlerName><BattlerHue>0</BattlerHue><MaxHp>4234</MaxHp><MaxSp>1441</MaxSp><Str>150</Str><Dex>143</Dex><Agi>142</Agi><Intel>151</Intel><Atk>143</Atk><Pdef>148</Pdef><Mdef>148</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 3 3 3 3 2 3 3 3 3 3 3 3 1 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>31</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>128</Exp><Gold>224</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>23</Id><Name>Daemon</Name><BattlerName>077-Devil03</BattlerName><BattlerHue>0</BattlerHue><MaxHp>4481</MaxHp><MaxSp>1515</MaxSp><Str>146</Str><Dex>151</Dex><Agi>152</Agi><Intel>147</Intel><Atk>147</Atk><Pdef>150</Pdef><Mdef>147</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>13</Animation2Id><ElementRanks>0 3 3 3 3 3 3 2 4 3 3 3 3 3 3 1 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>29</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>142</Exp><Gold>240</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>24</Id><Name>Cherubim</Name><BattlerName>081-Angel03</BattlerName><BattlerHue>0</BattlerHue><MaxHp>4965</MaxHp><MaxSp>1494</MaxSp><Str>150</Str><Dex>153</Dex><Agi>149</Agi><Intel>154</Intel><Atk>147</Atk><Pdef>141</Pdef><Mdef>147</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>7</Animation2Id><ElementRanks>0 3 3 3 3 3 3 4 2 3 3 3 3 3 3 3 1 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>26</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>157</Exp><Gold>254</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>25</Id><Name>Lich</Name><BattlerName>054-Undead04</BattlerName><BattlerHue>0</BattlerHue><MaxHp>5225</MaxHp><MaxSp>1603</MaxSp><Str>161</Str><Dex>159</Dex><Agi>158</Agi><Intel>155</Intel><Atk>150</Atk><Pdef>147</Pdef><Mdef>154</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>14</Animation2Id><ElementRanks>0 2 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>42</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>172</Exp><Gold>259</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>26</Id><Name>Quetzalcoatl</Name><BattlerName>058-Snake04</BattlerName><BattlerHue>0</BattlerHue><MaxHp>6212</MaxHp><MaxSp>1732</MaxSp><Str>168</Str><Dex>172</Dex><Agi>157</Agi><Intel>159</Intel><Atk>157</Atk><Pdef>154</Pdef><Mdef>149</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 2 3 3 3 3 3 3 3 1 3 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>15</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>189</Exp><Gold>272</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>27</Id><Name>Leviathan</Name><BattlerName>062-Aquatic04</BattlerName><BattlerHue>0</BattlerHue><MaxHp>6682</MaxHp><MaxSp>1698</MaxSp><Str>174</Str><Dex>172</Dex><Agi>173</Agi><Intel>177</Intel><Atk>155</Atk><Pdef>154</Pdef><Mdef>146</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 3 2 3 3 3 3 3 3 3 1 3 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>18</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>206</Exp><Gold>313</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>28</Id><Name>Behemoth</Name><BattlerName>066-Beast04</BattlerName><BattlerHue>0</BattlerHue><MaxHp>6944</MaxHp><MaxSp>1732</MaxSp><Str>167</Str><Dex>173</Dex><Agi>183</Agi><Intel>172</Intel><Atk>150</Atk><Pdef>147</Pdef><Mdef>150</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>8</Animation2Id><ElementRanks>0 3 3 3 2 3 3 3 3 3 3 3 1 3 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>21</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>225</Exp><Gold>319</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>29</Id><Name>Troll</Name><BattlerName>070-Goblin04</BattlerName><BattlerHue>0</BattlerHue><MaxHp>8219</MaxHp><MaxSp>1874</MaxSp><Str>177</Str><Dex>185</Dex><Agi>174</Agi><Intel>173</Intel><Atk>161</Atk><Pdef>152</Pdef><Mdef>161</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>9</Animation2Id><ElementRanks>0 3 3 3 3 2 3 3 3 3 3 3 3 1 3 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>48</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>244</Exp><Gold>329</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>30</Id><Name>Garuda</Name><BattlerName>074-Bird04</BattlerName><BattlerHue>0</BattlerHue><MaxHp>8460</MaxHp><MaxSp>1800</MaxSp><Str>178</Str><Dex>178</Dex><Agi>188</Agi><Intel>190</Intel><Atk>160</Atk><Pdef>158</Pdef><Mdef>164</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>5</Animation2Id><ElementRanks>0 3 3 3 3 3 2 3 3 3 3 3 3 3 1 3 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>38</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>265</Exp><Gold>346</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>31</Id><Name>Diabolos</Name><BattlerName>078-Devil04</BattlerName><BattlerHue>0</BattlerHue><MaxHp>10007</MaxHp><MaxSp>1900</MaxSp><Str>183</Str><Dex>190</Dex><Agi>190</Agi><Intel>196</Intel><Atk>154</Atk><Pdef>154</Pdef><Mdef>154</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>4</Animation2Id><ElementRanks>0 3 3 3 3 3 3 2 4 3 3 3 3 3 3 1 3 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>30</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>286</Exp><Gold>358</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+<Item>
+<Id>32</Id><Name>Seraphim</Name><BattlerName>082-Angel04</BattlerName><BattlerHue>0</BattlerHue><MaxHp>10236</MaxHp><MaxSp>1917</MaxSp><Str>192</Str><Dex>197</Dex><Agi>197</Agi><Intel>188</Intel><Atk>158</Atk><Pdef>162</Pdef><Mdef>158</Mdef><Eva>0</Eva><Animation1Id>0</Animation1Id><Animation2Id>7</Animation2Id><ElementRanks>0 3 3 3 3 3 3 4 2 3 3 3 3 3 3 3 1 </ElementRanks><StateRanks>0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </StateRanks><Actions><Item>
+<Kind>0</Kind><Basic>0</Basic><SkillId>1</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>5</Rating></Item>
+<Item>
+<Kind>1</Kind><Basic>1</Basic><SkillId>27</SkillId><ConditionTurnA>0</ConditionTurnA><ConditionTurnB>1</ConditionTurnB><ConditionHp>100</ConditionHp><ConditionLevel>1</ConditionLevel><ConditionSwitchId>0</ConditionSwitchId><Rating>4</Rating></Item>
+</Actions><Exp>309</Exp><Gold>382</Gold><ItemId>0</ItemId><WeaponId>0</WeaponId><ArmorId>0</ArmorId><TreasureProb>100</TreasureProb></Item>
+</Asset></XnaContent>
