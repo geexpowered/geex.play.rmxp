@@ -19,7 +19,7 @@ http://www.rpgmakerweb.com/download
 
 4. Clone repository.
 
-5. Open solution and right click on Geex.Play.RmXp project. Go to Build events and change the path to Geex.Transpose.exe.
+5. Open solution and right click on Geex.Play.RmXp project. Go to Properties, and select "Build events" tab to change the path to Geex.Transpose.exe.
 
 
 Getting started
